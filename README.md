@@ -218,3 +218,6 @@ If you find this project helpful, you can support me by donating crypto:
 ## 📜 License & Ethical Guardrails
 
 **MIT License (with Anti-Ad Restriction)**
+
+## contact:
+**asciline.engine@gmail.com**
